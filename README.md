@@ -1,0 +1,1 @@
+Solution for Graph Partitioning Problem (GPP), which is an NP-hard problem similar to the Traveling Salesman Problem (TSP). The goal is to partition the vertices of a graph into a specified number of subsets while minimizing the number of edges between different subsets.
